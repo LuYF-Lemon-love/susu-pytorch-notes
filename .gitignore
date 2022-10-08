@@ -1,0 +1,6 @@
+# .gitignore
+# created by LuYF-Lemon-love <luyanfeng_nlp@qq.com>
+
+beginner_source/basics/data/
+*.pth
+beginner_source/basics/.ipynb_checkpoints/
