@@ -1,2 +1,6 @@
 # .gitignore
 # created by LuYF-Lemon-love <luyanfeng_nlp@qq.com>
+
+data/
+.ipynb_checkpoints/
+model.pth
