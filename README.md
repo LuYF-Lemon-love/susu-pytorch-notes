@@ -21,7 +21,7 @@ $
 
 ## 介绍
 
-- [01_quickstart_tutorial.ipynb](./01_quickstart_tutorial.ipynb): source tutorial links ( https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html ), This section runs through the API for common tasks in machine learning.
+- [01_quickstart_tutorial.ipynb](./01_quickstart_tutorial.ipynb): this section runs through the API for common tasks in machine learning.
 
 ## Reference
 
