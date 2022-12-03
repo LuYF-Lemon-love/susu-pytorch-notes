@@ -5,3 +5,4 @@ data/
 .ipynb_checkpoints/
 model.pth
 model_weights.pth
+data.zip
