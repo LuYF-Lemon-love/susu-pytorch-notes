@@ -1,8 +1,6 @@
-# susu-pytorch-tutorials-notes
+# susu-pytorch-notes
 
-PyTorch Tutorials 学习笔记.
-
-官方教程的版本为: **1.13.0+cu117**.
+PyTorch 学习笔记.
 
 ## 环境
 
@@ -20,8 +18,6 @@ $
 ```
 
 ## 介绍
-
-- [01_quickstart_tutorial.ipynb](./01_quickstart_tutorial.ipynb): this section runs through the API for common tasks in machine learning.
 
 - [sundry](./sundry): some miscellaneous items of pytorch.
 
